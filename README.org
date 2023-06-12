@@ -1,0 +1,10 @@
+* kl-verify
+
+generate a very simple verify code picture
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/kevinlynx/kl-verify.git   |
+| commit  | 8e6393e  |
+| systems | kl-verify |
+|---------+-------------------------------------------|
+
